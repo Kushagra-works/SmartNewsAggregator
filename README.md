@@ -14,5 +14,8 @@ A web-based news aggregation platform that fetches and displays real-time news f
 - Extendable for categories, login, or bookmarks
 
 ## 👨‍💻 Author
+
 **Kushagra Dwivedi**  
-BITS Pilani  
+B.E. (Hons) Electrical and Electronics  
+M.Sc. (Hons) Biological Sciences, BITS Pilani  
+[GitHub](https://github.com/Kushagra-works)
